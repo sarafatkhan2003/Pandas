@@ -1,0 +1,6 @@
+order_id,order_date,name,gender,city,amount
+101,2023-01-10,Amit,M,Delhi,2500.0
+102,2023-01-11,Sara,F,Mumbai,3000.0
+103,2023-01-12,John,M,Delhi,2500.0
+104,2023-01-13,Sara,F,Lucknow,1500.0
+105,2023-01-14,Meena,F,Mumbai,4000.0
