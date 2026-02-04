@@ -1,0 +1,6 @@
+emp_id,name,dept_id,salary,join_date,join_year,recent_joiner,department
+1,Amit,101.0,50000.0,2022-01-10,2022,False,IT
+2,Sara,102.0,60000.0,2023-03-15,2023,True,HR
+3,John,101.0,51750.0,2021-07-01,2021,False,IT
+4,Neha,103.0,45000.0,2024-02-20,2024,True,Finance
+5,Raj,999.0,52000.0,2023-11-05,2023,True,
